@@ -1,0 +1,23 @@
+{
+  "name": "getmac-webpack",
+  "version": "0.0.1",
+  "description": "Getmac version compatible with Webpack",
+  "main": "getmac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbke/getmac-webpack.git"
+  },
+  "keywords": [
+    "getmac",
+    "webpack"
+  ],
+  "author": "LBKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbke/getmac-webpack/issues"
+  },
+  "homepage": "https://github.com/lbke/getmac-webpack#readme"
+}
